@@ -1,5 +1,4 @@
 # Ex23 Depth First Graph
-## DATE:
 ## AIM:
 To compose the code for the function createNode to traverse the graph below in the depth first fashion.
 
